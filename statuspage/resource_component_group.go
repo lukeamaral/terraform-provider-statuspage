@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	sp "github.com/yannh/statuspage-go-sdk"
+	sp "github.com/lukeamaral/statuspage-go-sdk"
 )
 
 func resourceComponentGroupCreate(d *schema.ResourceData, m interface{}) error {

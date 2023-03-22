@@ -2,7 +2,7 @@ package statuspage
 
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	sp "github.com/yannh/statuspage-go-sdk"
+	sp "github.com/lukeamaral/statuspage-go-sdk"
 )
 
 func Provider() *schema.Provider {

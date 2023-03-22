@@ -1,4 +1,4 @@
-![test](https://github.com/yannh/terraform-provider-statuspage/workflows/test/badge.svg) [![Go Report card](https://goreportcard.com/badge/github.com/yannh/terraform-provider-statuspage)](https://goreportcard.com/report/github.com/yannh/terraform-provider-statuspage)
+![test](https://github.com/lukeamaral/terraform-provider-statuspage/workflows/test/badge.svg) [![Go Report card](https://goreportcard.com/badge/github.com/lukeamaral/terraform-provider-statuspage)](https://goreportcard.com/report/github.com/lukeamaral/terraform-provider-statuspage)
 <a href="https://terraform.io">
     <img src="https://raw.githubusercontent.com/hashicorp/terraform-website/master/public/img/logo-hashicorp.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
@@ -7,8 +7,8 @@
 
 The Statuspage provider is used to interact with the resources supported by Statuspage.io.
 
- * [Documentation](https://registry.terraform.io/providers/yannh/statuspage/latest/docs)
- * [Download](https://github.com/yannh/terraform-provider-statuspage/releases)
+ * [Documentation](https://registry.terraform.io/providers/lukeamaral/statuspage/latest/docs)
+ * [Download](https://github.com/lukeamaral/terraform-provider-statuspage/releases)
 
 
 ## Requirements
@@ -19,17 +19,17 @@ The Statuspage provider is used to interact with the resources supported by Stat
 
 ## Building The Provider
 
-Clone repository to: `$GOPATH/src/github.com/yannh/terraform-provider-statuspage
+Clone repository to: `$GOPATH/src/github.com/lukeamaral/terraform-provider-statuspage
 
 ```sh
-$ mkdir -p $GOPATH/src/github.com/yannh; cd $GOPATH/src/github.com/yannh
-$ git clone https://github.com/yannh/terraform-provider-statuspage.git
+$ mkdir -p $GOPATH/src/github.com/lukeamaral; cd $GOPATH/src/github.com/lukeamaral
+$ git clone https://github.com/lukeamaral/terraform-provider-statuspage.git
 ```
 
 Enter the provider directory and build the provider
 
 ```sh
-$ cd $GOPATH/src/github.com/yannh/terraform-provider-statuspage
+$ cd $GOPATH/src/github.com/lukeamaral/terraform-provider-statuspage
 $ make build
 ```
 

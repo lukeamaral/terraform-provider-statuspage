@@ -123,6 +123,9 @@ github.com/hashicorp/terraform-svchost
 # github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87
 ## explicit
 github.com/hashicorp/yamux
+# github.com/lukeamaral/statuspage-go-sdk v0.0.0-20230322003759-133066059da8
+## explicit
+github.com/lukeamaral/statuspage-go-sdk
 # github.com/mattn/go-colorable v0.1.12
 ## explicit
 github.com/mattn/go-colorable
@@ -153,9 +156,6 @@ github.com/vmihailenco/msgpack/v4/codes
 github.com/vmihailenco/tagparser
 github.com/vmihailenco/tagparser/internal
 github.com/vmihailenco/tagparser/internal/parser
-# github.com/yannh/statuspage-go-sdk v0.0.0-20211226202911-2b762d9f3043
-## explicit
-github.com/yannh/statuspage-go-sdk
 # github.com/zclconf/go-cty v1.10.0
 github.com/zclconf/go-cty/cty
 github.com/zclconf/go-cty/cty/convert
